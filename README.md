@@ -1,6 +1,6 @@
-# WebRTC 视频聊天应用
+# WebRTC 实时通话语音应用
 
-一个基于 WebRTC、Socket.io 和 React 的实时视频聊天应用，支持 AWS EC2 部署。
+一个基于 WebRTC、Socket.io 和 React 的实时通话语音应用，支持 AWS EC2 部署。
 
 ## 📋 目录
 
